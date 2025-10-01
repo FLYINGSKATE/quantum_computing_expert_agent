@@ -1,5 +1,3 @@
-
-markdown
 # ⚛️ Quantum Computing Expert Agent
 
 > An AI-powered assistant that translates computational problems into optimized quantum circuits, recommends quantum algorithms, and generates executable code for quantum hardware.
@@ -489,3 +487,16 @@ Issues: GitHub Issues
 Discussions: GitHub Discussions
 Email: your.email@example.com
 Discord: [Your Discord Server]
+
+
+
+
+On Resume 
+Quantum Computing Expert Agent | Python, Qiskit, GPT-4, React
+- Built multi-agent AI system that translates computational problems into 
+  optimized quantum circuits and executable code
+- Implemented RAG system with quantum computing knowledge base (500+ papers)
+- Architected 5 specialized agents for problem analysis, algorithm selection,
+  circuit generation, optimization, and explanation
+- Deployed production API processing 100+ problems/day with 95% accuracy
+- Integrated with IBM Quantum hardware for real quantum execution
